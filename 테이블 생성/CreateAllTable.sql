@@ -1,3 +1,5 @@
+-- 완료
+-- 상민 파트
 -- User Table
 create table user
 (
@@ -98,6 +100,50 @@ create table point_log
 );
 
 
---
+-- 예나 파트
+-- Couple
+create table couple
+(
+    couple_id    bigint auto_increment primary key,
+    couple_user1 bigint                                 not null,
+    couple_user2 bigint                                 not null,
+    breaks_up    tinyint(2) default 0                   null,
+    created_at   datetime   default current_timestamp() not null
+);
+
+create table couple_media
+(
+    couple_media_id bigint auto_increment
+        primary key,
+    couple_id       bigint                                 not null,
+    user_id         bigint                                 not null,
+    upload_date     datetime                               null,
+    star            int                                    null,
+    show_together   enum ('혼자보기', '같이보기')                  null,
+    deleted_at      datetime                               null,
+    is_deleted      tinyint(2) default 0                   null,
+    created_at      datetime   default current_timestamp() not null,
+    constraint FK_couple_media_couple
+        foreign key (couple_id) references couple (couple_id),
+    constraint FK_couple_media_user
+        foreign key (user_id) references user (user_id)
+);
+
+-- auto-generated definition
+create table couple_comment
+(
+    couple_reply_id bigint auto_increment
+        primary key,
+    couple_media_id bigint                                 not null,
+    user_id         bigint                                 not null,
+    contents        varchar(500)                           null,
+    created_at      datetime   default current_timestamp() not null,
+    deleted_at      datetime                               null,
+    is_deleted      tinyint(2) default 0                   null,
+    constraint FK_couple_comment_couple_media
+        foreign key (couple_media_id) references couple_media (couple_media_id),
+    constraint FK_couple_comment_user
+        foreign key (user_id) references user (user_id)
+);
 
 
