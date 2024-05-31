@@ -35,11 +35,11 @@ Forever with you...❤️
 앱
 ```
 #### CASE 1
-- 나, **너.랑.만** 있고싶어! 😚😚<br>
-  <iframe src="https://giphy.com/embed/xTiTngBQncyTMceuXK" width="200" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><br>
+- 나, **너.랑.만** 있고싶어! 😚😚
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVwc2R1ejFiNWJxeDBsMXpodHd3cHV4ZzJqMnJ6a3VzY3kwajJxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTngBQncyTMceuXK/giphy.webp" alt="너랑만있고싶어" width="200"/>
   
-- 아잇참~ 😍😍<br>
-  <iframe src="https://giphy.com/embed/DxqLrg8cINwnS" width="200" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+- 아잇참~ 😍😍
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2I0ZHpmZ3dnNmZ6dGU4cWhxbzZhNnA4dDNlejJqemJyNnA1YXZxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VVh7txo37uooM/giphy.webp" alt="아잇참" width="200"/>
 
 > 연인과 나만의 특별한 공간이 필요하신가요?!
 > 다른 사람들은 절대 숨어서, 훔쳐볼 수 없는 특별한 공간! 지금 경험해보세요.
