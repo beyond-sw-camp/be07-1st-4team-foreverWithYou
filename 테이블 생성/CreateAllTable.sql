@@ -146,4 +146,53 @@ create table couple_comment
         foreign key (user_id) references user (user_id)
 );
 
+create table public.anniversary
+(
+    anni_id      bigint auto_increment
+        primary key,
+    couple_id    bigint                               null,
+    anni_cate_id bigint                               null,
+    title        varchar(255)                         not null,
+    date         date                                 not null,
+    `range`      enum ('공통', '본인')                    not null,
+    memo         varchar(500)                         null,
+    updated_at   datetime default current_timestamp() not null,
+    created_at   datetime default current_timestamp() not null,
+    constraint FK_anniversary_category
+        foreign key (anni_cate_id) references public.anniversary_category (anniver_category_id)
+            on update cascade on delete set null,
+    constraint FK_anniversary_couple
+        foreign key (couple_id) references public.couple (couple_id)
+            on update cascade on delete set null
+);
+
+create table public.anniversary_category
+(
+    anniver_category_id bigint auto_increment
+        primary key,
+    name                varchar(255)                         null,
+    updated_at          datetime default current_timestamp() not null,
+    created_at          datetime default current_timestamp() not null
+);
+
+create table public.message
+(
+    mess_id    bigint auto_increment
+        primary key,
+    couple_id  bigint                                 not null,
+    user_id    bigint                                 not null,
+    contents   varchar(500)                           null,
+    is_deleted tinyint(2) default 0                   null,
+    deleted_at datetime   default current_timestamp() null,
+    created_at datetime   default current_timestamp() not null,
+    updated_at datetime   default current_timestamp() not null,
+    constraint mess_id_UNIQUE
+        unique (mess_id),
+    constraint FK_message_couple
+        foreign key (couple_id) references public.couple (couple_id)
+            on update cascade,
+    constraint FK_message_user
+        foreign key (user_id) references public.user (user_id)
+            on update cascade
+);
 
