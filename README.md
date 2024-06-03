@@ -223,10 +223,10 @@ Forever with you...❤️
 
 <details>
   <summary>포인트충전</summary>
-  <img src="./dir/./dir/images/images/pro_point_01.png"/>
-  <img src="./dir/./dir/images/images/pro_point_02.png"/>
-  <img src="./dir/./dir/images/images/pro_point_03.png"/>
-  <img src="./dir/./dir/images/images/pro_point_04.png"/>
+  <img src="./dir/images/pro_point_01.png"/>
+  <img src="./dir/images/pro_point_02.png"/>
+  <img src="./dir/images/pro_point_03.png"/>
+  <img src="./dir/images/pro_point_04.png"/>
 
 </details>
 
@@ -252,6 +252,13 @@ Forever with you...❤️
 </details>
 
 <details>
+  <summary>게시글만들기</summary>
+
+  ![alt text](./dir/images/image-17.png)
+
+</details>
+
+<details>
   <summary>게시글검색</summary>
   키워드로 검색
 
@@ -265,13 +272,6 @@ Forever with you...❤️
   <summary>게시글조회</summary>
 
   ![alt text](./dir/images/image-36.png)
-</details>
-
-<details>
-  <summary>게시글만들기</summary>
-
-  ![alt text](./dir/images/image-17.png)
-
 </details>
 
 <details>
