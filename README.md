@@ -199,6 +199,7 @@ Forever with you...❤️
   ![alt text](./dir/images/image-12.png)
 
   ![alt text](./dir/images/image-13.png)
+</details>
 
 <details>
   <summary>전체메세지보기</summary>
@@ -220,8 +221,6 @@ Forever with you...❤️
   <summary>이모티콘상점목록조회</summary>
 
   ![alt text](./dir/images/image-18.png)
-
-
 
 </details>
 
@@ -257,8 +256,6 @@ Forever with you...❤️
   <summary>게시글만들기</summary>
 
   ![alt text](./dir/images/image-17.png)
-
-
 
 </details>
 
