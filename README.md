@@ -252,6 +252,13 @@ Forever with you...❤️
 </details>
 
 <details>
+  <summary>게시글만들기</summary>
+
+  ![alt text](./dir/images/image-17.png)
+
+</details>
+
+<details>
   <summary>게시글검색</summary>
   키워드로 검색
 
@@ -263,13 +270,6 @@ Forever with you...❤️
   <summary>게시글조회</summary>
 
   ![alt text](./dir/images/image-36.png)
-</details>
-
-<details>
-  <summary>게시글만들기</summary>
-
-  ![alt text](./dir/images/image-17.png)
-
 </details>
 
 <details>
