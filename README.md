@@ -73,12 +73,21 @@ Forever with you...❤️
 ## 자료
 #### 요구사항정의서
 
-#### 유저플로우(예상)
+#### 유저플로우
+
+<img src="./dir/images/fwy_user_flow.png" alt="유저플로우"/>
 
 #### WBS
+<img src="./dir/images/fwy_wbs.jpg" alt="유저플로우"/>
 
 #### JIRA
+[JIRA 프로젝트 페이지](https://kje0521.atlassian.net/jira/software/projects/HMNE/boards/2)
+
+<img src="./dir/images/fwy_jira_01.png" alt="유저플로우"/> 
 
 #### erd
+
+<img src="./dir/images/fwy_erd.png" alt="erd"/>
+
 
 #### 프로시저
