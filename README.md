@@ -136,7 +136,7 @@ Forever with you...❤️
 <details>
   <summary>로그인</summary>
 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2I0ZHpmZ3dnNmZ6dGU4cWhxbzZhNnA4dDNlejJqemJyNnA1YXZxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VVh7txo37uooM/giphy.webp](https://github.com/beyond-sw-camp/be07-1st-4team-foreverWithYou/assets/92567807/debed493-30c7-4847-8c6d-f868d4b63446)" alt="1" width="100%"/>
+  ![alt text](./dir/images/image-2.png)
   ![alt text](./dir/images/image-3.png)
   ![alt text](./dir/images/image-4.png)
   ![alt text](./dir/images/image-5.png)
