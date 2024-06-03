@@ -133,7 +133,6 @@ Forever with you...❤️
 
   ![alt text](./dir/images/image-1.png)
 
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2I0ZHpmZ3dnNmZ6dGU4cWhxbzZhNnA4dDNlejJqemJyNnA1YXZxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VVh7txo37uooM/giphy.webp" alt="아잇참" width="200"/>
 </details>
 <details>
   <summary>로그인</summary>
