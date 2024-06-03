@@ -34,29 +34,50 @@ Forever with you...❤️
 그래서 둘 만의
 앱
 ```
-#### CASE 1
-- 나, **너.랑.만** 있고싶어! 😚😚
- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVwc2R1ejFiNWJxeDBsMXpodHd3cHV4ZzJqMnJ6a3VzY3kwajJxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTngBQncyTMceuXK/giphy.webp" alt="너랑만있고싶어" width="200"/>
+
+<details>
+  <summary>CASE 1 :: 특별한 공간</summary>
+
+  <br>
+
+  > 연인과 나만의 특별한 공간이 필요하신가요?!
+  > 다른 사람들은 절대 숨어서, 훔쳐볼 수 없는 특별한 공간! 지금 경험해보세요.
+
+  - 나, **너.랑.만** 있고싶어! 😚😚
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVwc2R1ejFiNWJxeDBsMXpodHd3cHV4ZzJqMnJ6a3VzY3kwajJxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTngBQncyTMceuXK/giphy.webp" alt="너랑만있고싶어" width="200"/>
+    
+  - 아잇참~ 😍😍
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2I0ZHpmZ3dnNmZ6dGU4cWhxbzZhNnA4dDNlejJqemJyNnA1YXZxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VVh7txo37uooM/giphy.webp" alt="아잇참" width="200"/>
+</details>
+
+
+<details>
+  <summary>CASE 2 :: 깜빡한 D-DAY!!</summary>
   
-- 아잇참~ 😍😍
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2I0ZHpmZ3dnNmZ6dGU4cWhxbzZhNnA4dDNlejJqemJyNnA1YXZxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VVh7txo37uooM/giphy.webp" alt="아잇참" width="200"/>
+  <br>
 
-> 연인과 나만의 특별한 공간이 필요하신가요?!
-> 다른 사람들은 절대 숨어서, 훔쳐볼 수 없는 특별한 공간! 지금 경험해보세요.
 
-#### CASE 2
-- 우리 처음 만난 날 기억해?
-- 어... 그게... ``이 시점에서 이미 큰일``
-> 중요한 날을 잊어버렸을 때, 화난 애인의 모습?!
-> 잊지 않도록, 사소한 일정도 등록할 수 있도록 도와드립니다!
+  > 중요한 날을 잊어버렸을 때, 화난 애인의 모습?!
+  > 잊지 않도록, 사소한 일정도 등록할 수 있도록 도와드립니다!
+  - 우리 처음 만난 날 기억해?
+  - 어... 그게... ``이 시점에서 이미 큰일``
+</details>
 
-#### CASE 3
-- Hey Takeshi Kun.. 😢
-- Olivia 愛してる...🤐
-> 한국에 거주하는 외국인들에게! 딱 맞는 어플
-> 세계로 뻗어가는 대한민국! 글로벌 서비스도 함께 제공합니다!
+<details>
+  <summary>CASE 3 :: Olivia 愛してる...🤐</summary>
+  
+  <br>
+
+  
+  > 한국에 거주하는 외국인들에게! 딱 맞는 어플
+  > 세계로 뻗어가는 대한민국! 글로벌 서비스도 함께 제공합니다!
+  - Hey Takeshi Kun.. 😢
+  - Olivia 愛してる...🤐
+</details>
+
 
 ---
+
 만남이 있으면 헤어짐도 있는 법.
 
 슬픈 그 순간, 한번에 지워드립니다.
@@ -85,8 +106,10 @@ Forever with you...❤️
 
 <img src="./dir/images/fwy_jira_01.png" alt="유저플로우"/> 
 
-#### erd
+#### 개념적 ERD
+<img src="./dir/images/erd_01.svg" alt="fwy_erd_01">
 
+#### 논리적 ERD
 <img src="./dir/images/fwy_erd.png" alt="erd"/>
 
 
