@@ -1,5 +1,5 @@
 # 나랑, 사귈래?
-![나랑,사귈래 배너](./dir/./dir/images/images/forever_with_you_w.gif)
+![나랑,사귈래 배너](./dir/images/forever_with_you_w.gif)
 
 ## 팀소개
 😂 | 🐙 | 🐋 | 🤑 |
@@ -82,7 +82,7 @@ Forever with you...❤️
 
 슬픈 그 순간, 한번에 지워드립니다.
 # 그만, 만나자..
-![그만, 만나자 배너](./dir/./dir/images/images/forever_with_you_bye_w.gif)
+![그만, 만나자 배너](./dir/images/forever_with_you_bye_w.gif)
 
 그 사람과 함께했던 ``순간``, ``온도``, ``습도``.. 일정과 앨범이 다 남아있어요. 볼 때 마다 너무 괴로워요..
 > 커플이 해제되면, 따로 작업할 필요없이 그 사람과 있던 추억.
