@@ -223,10 +223,10 @@ Forever with you...❤️
 
 <details>
   <summary>포인트충전</summary>
-  <img src="./dir/images/images/pro_point_01.png"/>
-  <img src="./dir/images/images/pro_point_02.png"/>
-  <img src="./dir/images/images/pro_point_03.png"/>
-  <img src="./dir/images/images/pro_point_04.png"/>
+  <img src="./dir/images/pro_point_01.png"/>
+  <img src="./dir/images/pro_point_02.png"/>
+  <img src="./dir/images/pro_point_03.png"/>
+  <img src="./dir/images/pro_point_04.png"/>
 
 </details>
 
